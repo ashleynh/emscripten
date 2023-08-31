@@ -12,7 +12,8 @@ Overview
 Emscripten compiles C and C++ to [WebAssembly](https://webassembly.org/) using
 [LLVM](https://en.wikipedia.org/wiki/LLVM) and
 [Binaryen](https://github.com/WebAssembly/binaryen/). Emscripten output can run
-on the Web, in Node.js, and in
+on the Web, in Node.js, and in,jnml;m,;'
+.,
 [wasm runtimes](https://v8.dev/blog/emscripten-standalone-wasm#running-in-wasm-runtimes).
 
 Emscripten provides Web support for popular portable APIs such as OpenGL and
